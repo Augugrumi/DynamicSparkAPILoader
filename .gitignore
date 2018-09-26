@@ -77,4 +77,5 @@ fabric.properties
 .idea/
 target
 *.log.lck
+# IntelliJ iml files
 *.iml
